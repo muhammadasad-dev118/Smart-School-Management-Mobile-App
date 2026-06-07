@@ -184,31 +184,43 @@ lib
 
 ---
 
-# 📸 Application Screens
+# 📱 Application Screens
 
-## Login Screen
+### 🔐 Authentication Module
+- Secure Login
+- Role-Based Access
+- Session Management
 
-<img src="screenshots/login.png" width="800"/>
+### 👨‍💼 Admin Dashboard
+- Analytics Overview
+- Student Management
+- Teacher Management
+- Attendance Monitoring
+- Fee Management
 
----
+### 👨‍🏫 Teacher Dashboard
+- Attendance Marking
+- Assignment Management
+- Result Uploading
+- Student Performance Tracking
 
-## Admin Dashboard
+### 👨‍🎓 Student Dashboard
+- Attendance Records
+- Academic Results
+- Timetable Access
+- Assignment Tracking
 
-<img src="screenshots/dashboard.png" width="800"/>
+### 👨‍👩‍👧 Parent Dashboard
+- Child Progress Monitoring
+- Attendance Reports
+- Fee Status
+- School Notifications
 
----
-
-## Student Management
-
-<img src="screenshots/students.png" width="800"/>
-
----
-
-## Attendance Management
-
-<img src="screenshots/attendance.png" width="800"/>
-
----
+### 📊 Reports & Analytics
+- Attendance Reports
+- Performance Analysis
+- Academic Statistics
+- Administrative Insights
 
 # 🚀 Getting Started
 
@@ -267,7 +279,7 @@ This project demonstrates:
 
 # 👨‍💻 Developer
 
-## Asad Ali
+##  Muhammad Asad
 
 Flutter Developer • Laravel Developer • WordPress Developer
 
